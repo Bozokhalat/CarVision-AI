@@ -34,7 +34,7 @@ Bu projede **Stanford Cars Dataset** kullanılmıştır.
 * **Araç Türleri:** Sedan, SUV, Coupe, Convertible, Pickup, Hatchback vb.
 * **İçerik:** Audi, BMW, Mercedes, Ford gibi dünya genelindeki popüler markaların 2012 yılına kadar olan ikonik modellerini içerir.
 
-> **⚠️ Önemli Not:** Veri setinin doğası gereği, model **2013 ve sonrası** üretilen modern araçları (örn: Togg T10X, Tesla Model Y) veya veri setinde bulunmayan modelleri tanımayabilir. Bu durum projenin "Kısıtlar (Limitations)" bölümünde belirtilmiştir.
+> **⚠️ Önemli Not:** Veri setinin doğası gereği, model **2013 ve sonrası** üretilen modern araçları (örn: Togg T10X, Tesla Model Y) veya veri setinde bulunmayan modelleri tanımayabilir. 
 
 ---
 
@@ -81,4 +81,5 @@ Eğitilmiş Model Linki: ---------------------
 
 ```bash
 git clone [https://github.com/Bozokhalat/CarVision-AI.git](https://github.com/Bozokhalat/CarVision-AI.git)
+
 cd CarVision-AI
