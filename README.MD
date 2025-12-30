@@ -81,9 +81,10 @@ Dataset Drive Linki: https://drive.google.com/drive/folders/1VcNnAmUiRZiXgIZE1Tf
 Eğitilmiş Model Linki: https://drive.google.com/drive/folders/1gPGYpPG8sOr-xH9W3civ_FQDefH-ovli?usp=drive_link
 
 ```bash
-git clone [https://github.com/Bozokhalat/CarVision-AI.git](https://github.com/Bozokhalat/CarVision-AI.git)
+git clone https://github.com/Bozokhalat/CarVision-AI.git
 
 cd CarVision-AI
+
 
 
 
