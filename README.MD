@@ -9,7 +9,7 @@
 **CarVision AI**, Vision Transformer (ViT) mimarisini kullanarak araçların marka, model ve üretim yıllarını fotoğraftan tespit eden derin öğrenme tabanlı bir görüntü sınıflandırma projesidir.
 
 ---
-
+[TANITIM VİDEOSU LİNKİ](https://drive.google.com/file/d/16veZ3XQ8bhK_0RQQPq-y9qySyrwnlTdJ/view?usp=sharing)
 ## 🎯 Proje Hakkında
 
 Bu proje, **"Yapay Zeka ve Bulut Bilişim Teknolojileri"** dersi kapsamında geliştirilmiştir. Amaç, karmaşık görsel verileri işleyebilen, yüksek doğruluk oranına sahip bir yapay zeka modeli eğitmek ve bunu son kullanıcı için erişilebilir bir web arayüzüne dönüştürmektir.
@@ -64,7 +64,7 @@ Model eğitimi NVIDIA RTX 3060 GPU üzerinde gerçekleştirilmiştir. Eğitim s�
 * **Eğitim Süresi:** 20 Epoch
 * **Doğruluk (Accuracy):** %70+
 * **Test Yöntemi:** Top-5 Accuracy ve Confidence Score analizi.
-
+[Dataset Drive Linki](https://drive.google.com/drive/folders/1VcNnAmUiRZiXgIZE1TfIgp0vzycTYlZg?usp=drive_link)
 [Eğitilmiş Model Linki](https://drive.google.com/drive/folders/1gPGYpPG8sOr-xH9W3civ_FQDefH-ovli?usp=drive_link)
 ![Eğitim Grafikleri](egitim_sonuclari.png)
 
@@ -75,15 +75,13 @@ Model eğitimi NVIDIA RTX 3060 GPU üzerinde gerçekleştirilmiştir. Eğitim s�
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin.
 
 ### 1. Projeyi Klonlayın
-TANITIM VİDEOSU LİNKİ : https://drive.google.com/file/d/16veZ3XQ8bhK_0RQQPq-y9qySyrwnlTdJ/view?usp=sharing
-Dataset Drive Linki: https://drive.google.com/drive/folders/1VcNnAmUiRZiXgIZE1TfIgp0vzycTYlZg?usp=drive_link
-
 
 
 ```bash
 git clone https://github.com/Bozokhalat/CarVision-AI.git
 
 cd CarVision-AI
+
 
 
 
