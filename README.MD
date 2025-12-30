@@ -65,7 +65,7 @@ Model eğitimi NVIDIA RTX 3060 GPU üzerinde gerçekleştirilmiştir. Eğitim s�
 * **Doğruluk (Accuracy):** %70+
 * **Test Yöntemi:** Top-5 Accuracy ve Confidence Score analizi.
 
-
+[Eğitilmiş Model Linki](https://drive.google.com/drive/folders/1gPGYpPG8sOr-xH9W3civ_FQDefH-ovli?usp=drive_link)
 ![Eğitim Grafikleri](egitim_sonuclari.png)
 
 ---
@@ -78,12 +78,13 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 TANITIM VİDEOSU LİNKİ : https://drive.google.com/file/d/16veZ3XQ8bhK_0RQQPq-y9qySyrwnlTdJ/view?usp=sharing
 Dataset Drive Linki: https://drive.google.com/drive/folders/1VcNnAmUiRZiXgIZE1TfIgp0vzycTYlZg?usp=drive_link
 
-Eğitilmiş Model Linki: https://drive.google.com/drive/folders/1gPGYpPG8sOr-xH9W3civ_FQDefH-ovli?usp=drive_link
+
 
 ```bash
 git clone https://github.com/Bozokhalat/CarVision-AI.git
 
 cd CarVision-AI
+
 
 
 
