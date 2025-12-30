@@ -75,12 +75,14 @@ Model eğitimi NVIDIA RTX 3060 GPU üzerinde gerçekleştirilmiştir. Eğitim s�
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin.
 
 ### 1. Projeyi Klonlayın
-
+TANITIM VİDOESU LİNKİ : https://drive.google.com/file/d/16veZ3XQ8bhK_0RQQPq-y9qySyrwnlTdJ/view?usp=sharing
 Dataset Drive Linki: https://drive.google.com/drive/folders/1VcNnAmUiRZiXgIZE1TfIgp0vzycTYlZg?usp=drive_link
+
 Eğitilmiş Model Linki: https://drive.google.com/drive/folders/1gPGYpPG8sOr-xH9W3civ_FQDefH-ovli?usp=drive_link
 
 ```bash
 git clone [https://github.com/Bozokhalat/CarVision-AI.git](https://github.com/Bozokhalat/CarVision-AI.git)
 
 cd CarVision-AI
+
 
